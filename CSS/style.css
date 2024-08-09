@@ -172,4 +172,15 @@ footer {
     .bt-whatsapp{
         margin-top: 20px;
     }
+    .contact-container textarea {
+        width: 300px;
+    }
+    .contact-container h2 {
+        font-size: 32px;
+    }
+    
+    .contact-container p {
+        padding: 10px;
+        font-size: 16px;
+    }
 }
