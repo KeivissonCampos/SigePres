@@ -36,6 +36,10 @@
     padding: 8px;
 }
 
+a:hover{
+    Color: rgb(1, 142, 185);
+}
+
 .main-banner{
     background-image: url("../img/pexels.jpg");
     background-size: cover;
