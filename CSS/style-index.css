@@ -157,8 +157,20 @@ footer {
         align-items: center;
         width: 100%;
         background-color: #2b4c7e;
-        padding: 10px 5px 10px 20px;
+        padding: 10px 20px 10px 20px;
     }
+
+    .logo{
+        width: 120px;
+        height: 35px;
+    }
+
+    .bt-login{
+        width: 120px;
+        height: 30px;
+        font-size: 12px;
+    }
+
     .main-title{
         font-size: 3ch; 
     }
